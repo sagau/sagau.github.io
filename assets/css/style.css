@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   margin: 0;
   padding: 0;
-  font-weight: 600;
+  font-weight: 200;
   -moz-text-align-last: center;
   text-align-last: center;
   font-family: "Poppins", sans-serif;
@@ -218,10 +218,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 64px;
-  font-weight: 700;
+  font-size: 48px;
+  font-weight: 200;
   line-height: 56px;
-  color: #fff;
+  color: #ccc;
 }
 #hero p {
   color: #fff;
